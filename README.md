@@ -42,7 +42,7 @@ All assets here are verified and approved by the Turbo Manatee Team for use on e
 
 ---
 
-## 🪪 License & Attribution
+##   License & Attribution
 
 All images and logos in this repository are © 2025 Turbo Manatee Team.  
 They are released for public use under the [MIT License](https://opensource.org/licenses/MIT) **only** for purposes related to TUMA token representation.
