@@ -42,7 +42,7 @@
 
 ---
 
-## 🪪 授權與版權聲明
+##  授權與版權聲明
 
 本資料夾內所有圖像與商標 © 2025 Turbo Manatee Team。  
 授權依據 [MIT License](https://opensource.org/licenses/MIT)，僅限用於與 TUMA 代幣相關之官方用途。
