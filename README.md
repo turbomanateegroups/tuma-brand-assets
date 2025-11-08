@@ -1,4 +1,4 @@
-# 🪙 Turbo Manatee (TUMA) — Official Brand Assets
+#  Turbo Manatee (TUMA) — Official Brand Assets
 
 This repository contains the **official logo and brand materials** for the Turbo Manatee (TUMA) token on the Binance Smart Chain (BEP20).  
 All assets here are verified and approved by the Turbo Manatee Team for use on exchanges, listings, and promotional materials.
