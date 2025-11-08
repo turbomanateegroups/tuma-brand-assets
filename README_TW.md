@@ -1,4 +1,4 @@
-# 🪙 Turbo Manatee (TUMA) — 官方品牌素材庫
+# Turbo Manatee (TUMA) — 官方品牌素材庫
 
 本資料夾為 **Turbo Manatee (TUMA)** 官方品牌資產庫，收錄所有已核可的代幣標誌與識別素材。  
 這些檔案由 Turbo Manatee 團隊正式發布，用於交易所上架、代幣清單、行銷宣傳與相關品牌使用。
