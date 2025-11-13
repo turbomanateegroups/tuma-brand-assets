@@ -35,7 +35,7 @@ All assets here are verified and approved by the Turbo Manatee Team for use on e
 | **Symbol** | TUMA |
 | **Type** | BEP20 (Binance Smart Chain) |
 | **Decimals** | 18 |
-| **Contract Address** | [`0x52d105dF96887f1B69EF93b55A53A12597485D79`](https://bscscan.com/token/0x52d105dF96887f1B69EF93b55A53A12597485D79) |
+| **Contract Address** | [`0xed89776141b1a62adfbf3c243b75600eb2c4b430`](https://bscscan.com/token/0xed89776141b1a62adfbf3c243b75600eb2c4b430) |
 | **Total Supply** | 100,000,000 TUMA |
 | **Website** | [https://turbomanatee.com](https://turbomanatee.com) |
 | **GitHub Organization** | [turbomanateegroups](https://github.com/turbomanateegroups) |
